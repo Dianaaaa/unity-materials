@@ -1590,7 +1590,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ae1e952dd693e3d4babfce8c3340c340, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  continuous: 0
+  continuous: 1
   hoursTransform: {fileID: 715567065}
   minitesTransform: {fileID: 1391209574}
   secondTransform: {fileID: 1098526540}
